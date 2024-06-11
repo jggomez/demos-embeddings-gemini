@@ -1,4 +1,4 @@
-# Embeddings Demos with Gemini
+# Embeddings Demos with VertexAI
 
 ## Overview
 Embeddings are a powerful tool in machine learning, converting high-dimensional data such as text, images, or audio into lower-dimensional vectors. 
